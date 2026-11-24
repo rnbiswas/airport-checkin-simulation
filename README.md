@@ -54,3 +54,5 @@ The confidence intervals overlapped slightly, so I ran a **paired t-test** acros
 ## Files
 - `Airport_Checkin_Simulation_Report.pdf`: full report
 - `images/`: model screenshots
+
+----------
